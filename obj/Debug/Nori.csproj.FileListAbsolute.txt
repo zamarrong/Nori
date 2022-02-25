@@ -1,0 +1,1341 @@
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\bin\Debug\Nori.exe.config
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.csprojResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.Form1.resources
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.Properties.Resources.resources
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.csproj.GenerateResource.Cache
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\bin\Debug\Nori.exe
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\bin\Debug\Nori.pdb
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\bin\Debug\NoriSDK.dll
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\bin\Debug\NoriSDK.pdb
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.exe
+c:\users\z\documents\visual studio 2015\Projects\Nori\Nori\obj\Debug\Nori.pdb
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\Nori.exe.config
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.exe
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.pdb
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\Nori.exe
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\Nori.pdb
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Data.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Utils.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\NoriSDK.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Data.v16.1.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Utils.v16.1.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\NoriSDK.pdb
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.csprojResolveAssemblyReference.cache
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.Form1.resources
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.Properties.Resources.resources
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.csproj.GenerateResource.Cache
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.exe.licenses
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+\\192.168.3.27\compartida\sistemas\POS\Nori\Nori\obj\Debug\Nori.frmArticulo.resources
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\Nori.exe.config
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.exe
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.pdb
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.csprojResolveAssemblyReference.cache
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.frmArticulo.resources
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.Properties.Resources.resources
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.csproj.GenerateResource.Cache
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.exe.licenses
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\Nori.exe
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\Nori.pdb
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\NoriSDK.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\NoriSDK.pdb
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Nori\Nori\obj\Debug\Nori.frmAlmacen.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Nori.exe.config
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Nori.exe
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Nori.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAcceder.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmGruposArticulos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAlmacenes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmArticulos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusqueda.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUsuarios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPrincipal.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Properties.Resources.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.csproj.GenerateResource.Cache
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.exe.licenses
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.exe
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmFabricantes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmListasPrecios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMonedas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDepartamentos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmVendedores.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPDevNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPShrNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPEngNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPVerNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.HuellaDigital.frmHuellaDigital.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPGuiNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriSDK.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEstaciones.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.csprojResolveAssemblyReference.cache
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmZonas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmTiposCambio.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriSDK.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmGruposSocios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSocios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCondicionesPago.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmConfiguracion.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmPuntoVenta.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEmpresa.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmImpuestos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEstados.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPaises.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMetodosPago.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEventosControles.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PrintRibbonControllerResources.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.XRDesignRibbonControllerResources.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorInformes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmConsultasPersonalizadas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmTiposMetodosPago.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSincronizacion.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDocumentos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSeries.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDescuento.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPagos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmArqueo.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSolicitarAutorizacion.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAutorizacion.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAutenticar.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmIngresos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCanjes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmInformes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMonederos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocio.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMapaRelaciones.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDireccion.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriCFDI.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\NoriCFDI.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmKiosco.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmSocio.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmAltaRapidaSocio.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCertificados.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAutorizacionCredito.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Nori.exe.manifest
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Nori.application
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.exe.manifest
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.application
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusquedaArticulos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSucursales.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmConexiones.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEtiquetas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmTiposEtiquetas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmComanda.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmRestaurante.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDescargaCFDI.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMediosPago.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmBasculas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmTiposEmpaques.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmBascula.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEntregaMercancia.resources
+\\192.168.0.81\RepoNori\Nori\bin\Debug\Nori.exe.config
+\\192.168.0.81\RepoNori\Nori\obj\Debug\Nori.exe
+\\192.168.0.81\RepoNori\Nori\obj\Debug\Nori.pdb
+\\192.168.0.122\RepoNori\Nori\bin\Debug\Nori.exe.config
+\\192.168.0.122\RepoNori\Nori\obj\Debug\Nori.exe
+\\192.168.0.122\RepoNori\Nori\obj\Debug\Nori.pdb
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\Ionic.Zip.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v16.1.Win.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Map.v16.1.Core.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.UI.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Presets.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Win.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v16.1.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v16.1.Extensions.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v16.1.Win.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.Map.v16.1.Core.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v16.1.UI.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Presets.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v16.1.Win.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v16.1.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v16.1.Extensions.xml
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v16.1.Win.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v16.1.Win.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v16.1.Win.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v16.1.Win.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.Map.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.Map.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.Map.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.Map.v16.1.Core.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v16.1.Presets.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v16.1.Presets.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Presets.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Presets.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorEscritorios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmEscritorio.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmModulo.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCorreosElectronicos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCorreoElectronico.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPermisos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCortesCaja.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUsuariosTiposMetodosPago.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUsuariosSeries.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUsuariosListasPrecios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCierreDia.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPagosFinanciados.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaArticulo.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmMapaRelacionesPagos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmVehiculos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmChoferes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUbicaciones.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmSupervisores.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCanales.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmConceptosAutorizaciones.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmUsuariosAlmacenes.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmCausalidades.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocioEventual.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmRutas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmPropietarios.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmTiposRutas.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmActivosFijos.resources
+C:\Users\Z\Documents\Visual Studio 2015\RepoNori\Nori\obj\Debug\Nori.frmListaPartidas.resources
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Nori.exe.config
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Nori.exe.manifest
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Nori.application
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Nori.exe
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Nori.pdb
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Map.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriCFDI.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriSDK.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Ionic.Zip.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriCFDI.pdb
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriCFDI.dll.config
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.pdb
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriSDK.pdb
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\NoriSDK.dll.config
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Map.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.xml
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.csprojAssemblyReference.cache
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmActivosFijos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPropietarios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocioEventual.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmRutas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCausalidades.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmConceptosAutorizaciones.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSupervisores.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCanales.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmTiposRutas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUbicaciones.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUsuariosAlmacenes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmVehiculos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmChoferes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaArticulo.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCierreDia.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmBascula.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMapaRelacionesPagos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPagosFinanciados.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUsuariosListasPrecios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUsuariosTiposMetodosPago.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUsuariosSeries.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPermisos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorEscritorios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEntregaMercancia.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEscritorio.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmListaPartidas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCorreosElectronicos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCorreoElectronico.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmModulo.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmTiposEmpaques.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmBasculas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPagos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEtiquetas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmTiposEtiquetas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmConexiones.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAcceder.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSucursales.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCertificados.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDireccion.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMonederos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmInformes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAutorizacion.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocio.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMapaRelaciones.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAutorizacionCredito.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusquedaArticulos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSolicitarAutorizacion.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDocumentos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmConsultasPersonalizadas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSeries.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSincronizacion.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEventosControles.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmTiposMetodosPago.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMetodosPago.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmImpuestos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEstados.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPaises.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmCondicionesPago.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEmpresa.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmGruposSocios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorInformes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmSocios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmTiposCambio.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmConfiguracion.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmZonas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmEstaciones.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.HuellaDigital.frmHuellaDigital.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmVendedores.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDepartamentos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmFabricantes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmListasPrecios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMonedas.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAutenticar.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmGruposArticulos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmAlmacenes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmArticulos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusqueda.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUsuarios.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmPrincipal.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmAltaRapidaSocio.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmKiosco.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmSocio.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PrintRibbonControllerResources.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Properties.Resources.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmMediosPago.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmDescuento.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmArqueo.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCanjes.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmIngresos.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCortesCaja.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmPuntoVenta.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmComanda.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmRestaurante.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.XRDesignRibbonControllerResources.resources
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.csproj.GenerateResource.cache
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.exe.licenses
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.exe.manifest
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.application
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.csproj.CopyComplete
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.exe
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.pdb
+C:\Users\z\source\repos\RepoNori\Nori\obj\Debug\Nori.frmUnidadesMedida.resources
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPDevNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPEngNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPGuiNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPShrNET.dll
+C:\Users\z\source\repos\RepoNori\Nori\bin\Debug\DPFPVerNET.dll
+D:\VS\RepoNori\Nori\bin\Debug\Nori.exe.config
+D:\VS\RepoNori\Nori\bin\Debug\Nori.exe.manifest
+D:\VS\RepoNori\Nori\bin\Debug\Nori.application
+D:\VS\RepoNori\Nori\bin\Debug\Nori.exe
+D:\VS\RepoNori\Nori\bin\Debug\Nori.pdb
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Data.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Images.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Map.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\Newtonsoft.Json.dll
+D:\VS\RepoNori\Nori\bin\Debug\NoriCFDI.dll
+D:\VS\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.dll
+D:\VS\RepoNori\Nori\bin\Debug\NoriSDK.dll
+D:\VS\RepoNori\Nori\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS\RepoNori\Nori\bin\Debug\Ionic.Zip.dll
+D:\VS\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\VS\RepoNori\Nori\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\VS\RepoNori\Nori\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.dll
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.dll
+D:\VS\RepoNori\Nori\bin\Debug\NoriCFDI.pdb
+D:\VS\RepoNori\Nori\bin\Debug\NoriCFDI.dll.config
+D:\VS\RepoNori\Nori\bin\Debug\NoriSAPB1SDK.pdb
+D:\VS\RepoNori\Nori\bin\Debug\NoriSDK.pdb
+D:\VS\RepoNori\Nori\bin\Debug\NoriSDK.dll.config
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Data.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Map.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Printing.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.PivotGrid.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\System.Net.Http.Formatting.xml
+D:\VS\RepoNori\Nori\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.XtraMap.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Core.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Mvvm.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Docking.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Grid.v19.2.xml
+D:\VS\RepoNori\Nori\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.xml
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Printing.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Printing.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Printing.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Printing.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Core.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Core.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Core.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Core.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Docking.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Docking.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Docking.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Docking.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\de\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\es\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ja\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\bin\Debug\ru\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+D:\VS\RepoNori\Nori\obj\Debug\Nori.csprojAssemblyReference.cache
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSeleccionarSucural.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmActivosFijos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUnidadesMedida.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPropietarios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocioEventual.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmRutas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCausalidades.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmConceptosAutorizaciones.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSupervisores.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCanales.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmTiposRutas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUbicaciones.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUsuariosAlmacenes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmVehiculos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmChoferes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaArticulo.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCierreDia.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmBascula.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMapaRelacionesPagos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPagosFinanciados.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUsuariosListasPrecios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUsuariosTiposMetodosPago.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUsuariosSeries.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPermisos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorEscritorios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEntregaMercancia.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEscritorio.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmListaPartidas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCorreosElectronicos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCorreoElectronico.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmModulo.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmTiposEmpaques.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmBasculas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPagos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEtiquetas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmTiposEtiquetas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmConexiones.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAcceder.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSucursales.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCertificados.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDireccion.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMonederos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmInformes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAutorizacion.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAltaRapidaSocio.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMapaRelaciones.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAutorizacionCredito.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusquedaArticulos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSolicitarAutorizacion.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDocumentos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmConsultasPersonalizadas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSeries.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSincronizacion.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEventosControles.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmTiposMetodosPago.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMetodosPago.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmImpuestos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEstados.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPaises.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmCondicionesPago.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEmpresa.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmGruposSocios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDiseñadorInformes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmSocios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmTiposCambio.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmConfiguracion.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmZonas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmEstaciones.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.HuellaDigital.frmHuellaDigital.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmVendedores.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDepartamentos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmFabricantes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmListasPrecios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMonedas.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAutenticar.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmGruposArticulos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmAlmacenes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmArticulos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmResultadosBusqueda.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmUsuarios.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmPrincipal.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmAltaRapidaSocio.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmKiosco.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Kiosco.frmSocio.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PrintRibbonControllerResources.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Properties.Resources.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmMediosPago.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmDescuento.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmArqueo.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCanjes.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmIngresos.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmCortesCaja.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.PuntoVenta.frmPuntoVenta.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmComanda.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.Restaurante.frmRestaurante.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.XRDesignRibbonControllerResources.resources
+D:\VS\RepoNori\Nori\obj\Debug\Nori.csproj.GenerateResource.cache
+D:\VS\RepoNori\Nori\obj\Debug\Nori.exe.licenses
+D:\VS\RepoNori\Nori\obj\Debug\Nori.csproj.CoreCompileInputs.cache
+D:\VS\RepoNori\Nori\obj\Debug\Nori.exe.manifest
+D:\VS\RepoNori\Nori\obj\Debug\Nori.application
+D:\VS\RepoNori\Nori\obj\Debug\Nori.csproj.CopyComplete
+D:\VS\RepoNori\Nori\obj\Debug\Nori.exe
+D:\VS\RepoNori\Nori\obj\Debug\Nori.pdb
+D:\VS\RepoNori\Nori\obj\Debug\Nori.frmRemolques.resources
